@@ -1,4 +1,6 @@
 .Decoracao {
+  background-image: url('../../../public/img/fundo1.svg');
+  background-size: cover;
   display: flex;
   padding: 5% 5% 5% 5%;
   gap: 20px;
