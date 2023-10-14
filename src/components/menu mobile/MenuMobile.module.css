@@ -1,3 +1,7 @@
+.containerMobile {
+  position: relative;
+}
+
 .mobileMenuIcon{
   background: #eeeeee;
   border-radius: 0.2rem;
@@ -59,8 +63,4 @@
   opacity: 1;
   pointer-events: initial;
   z-index: 100;
-}
-
-.listMobileActive {
-  margin-right: 20px;
 }

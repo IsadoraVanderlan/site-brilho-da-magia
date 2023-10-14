@@ -1,8 +1,10 @@
 .Header {
-  padding: 5px 100px;
+  padding: 8px 100px;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: relative;
+  z-index: 2;
 }
 
 .ImgHeader {
@@ -26,7 +28,7 @@
   }
 }
 
-@media (min-width: 650px) {
+@media (min-width: 620px) {
   .menuHamburguer {
     display: none;
   }
