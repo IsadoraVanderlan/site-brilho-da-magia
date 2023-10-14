@@ -1,11 +1,4 @@
 import './globals.css';
-// import { Comfortaa } from 'next/font/google';
-// import { Roboto } from 'next/font/google';
-// import { KaushanScript } from 'next/font/google';
-
-// const Comfortaa = Comfortaa({ subsets: ['comfortaa'] });
-// const Roboto = Roboto({ subsets: ['roboto'] });
-// const KaushanScript = KaushanScript({ subsets: ['kaushan script'] });
 
 export const metadata = {
   title: 'Brilho da Magia Decorações',
@@ -22,7 +15,7 @@ export default function RootLayout({ children }) {
           href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&family=Kaushan+Script&family=Nunito:ital,wght@1,200;1,400&display=swap"
           rel="stylesheet"
         />
-        <link rel="icon" href="../../public/img/favicon.ico" type="image/x-icon"></link>
+        <link rel="icon" href="./img/favicon.ico" type="image/x-icon"></link>
       </head>
 
       <body>{children}</body>
