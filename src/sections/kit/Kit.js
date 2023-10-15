@@ -24,7 +24,7 @@ const Kit = () => {
             </li>
             <li>
               <img src="./img/icon-spa.svg" alt="icon spa" />
-              Aniversarios
+              Aniversários
             </li>
             <li>
               <img src="./img/icon-spa.svg" alt="icon spa" />
