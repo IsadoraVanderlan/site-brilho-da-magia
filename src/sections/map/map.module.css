@@ -36,6 +36,12 @@
   width: 90%;
 }
 
+.MapMap img:hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  transition: 0.4s;
+}
+
 @media (max-width: 900px) {
   .MapMap p{
     margin-top: 0%;

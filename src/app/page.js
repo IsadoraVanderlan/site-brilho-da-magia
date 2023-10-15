@@ -2,7 +2,7 @@ import styles from '@/app/page.module.css';
 import  Header  from "@/sections/header/Header";
 import  Banner  from "@/sections/banner/Banner";
 import  Decoracao  from "@/sections/decoracao/Decoracao";
-import  Opcoes  from "@/sections/opcoes/Opcoes";
+// import  Opcoes  from "@/sections/opcoes/Opcoes";
 import  Kit  from "@/sections/kit/Kit";
 import  Div  from "@/sections/div/Div";
 import  Redes  from "@/sections/redes/Redes";
@@ -16,7 +16,7 @@ export default function Home() {
       <Header/>
       <Banner/>
       <Decoracao/>
-      <Opcoes/>
+      {/* <Opcoes/> */}
       <Kit/>
       <Div />
       <Redes/>

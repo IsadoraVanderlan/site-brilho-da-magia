@@ -6,7 +6,7 @@ const Decoracao = () => {
   return (
     <div className={`${styles.Decoracao} container`}>
       <div className={styles.DecoracaoImg}>
-        <img src="./img/img1.jpg" alt="Imagem de decoração de unicornio" />
+        <img src="./img/img1.webp" alt="Imagem de decoração de unicornio" />
       </div>
 
       <div className={styles.DecoracaoTexto}>

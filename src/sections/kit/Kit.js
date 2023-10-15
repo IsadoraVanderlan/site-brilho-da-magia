@@ -19,23 +19,36 @@ const Kit = () => {
 
           <ul>
             <li>
-              <img src="./img/icon-spa.svg" alt="icon spa" />
-              Festas
-            </li>
-            <li>
-              <img src="./img/icon-spa.svg" alt="icon spa" />
+              {/* <img src="./img/icon-spa.svg" alt="icon spa" /> */}
               Aniversários
             </li>
             <li>
-              <img src="./img/icon-spa.svg" alt="icon spa" />
+              {/* <img src="./img/icon-spa.svg" alt="icon spa" /> */}
               Casamentos
             </li>
             <li>
-              <img src="./img/icon-spa.svg" alt="icon spa" />
-              Festas de Chás
+              {/* <img src="./img/icon-spa.svg" alt="icon spa" /> */}
+              Quinze Anos
             </li>
             <li>
-              <img src="./img/icon-spa.svg" alt="icon spa" />E muito mais
+              {/* <img src="./img/icon-spa.svg" alt="icon spa" /> */}
+              Chá Revelação
+            </li>
+            <li>
+              {/* <img src="./img/icon-spa.svg" alt="icon spa" /> */}
+              Chá de Bebe
+            </li>
+            <li>
+              {/* <img src="./img/icon-spa.svg" alt="icon spa" /> */}
+              Batizados
+            </li>
+            <li>
+              {/* <img src="./img/icon-spa.svg" alt="icon spa" /> */}
+              Bodas
+            </li>
+            <li>
+              {/* <img src="./img/icon-spa.svg" alt="icon spa" /> */}
+              E muito mais!
             </li>
           </ul>
         </div>

@@ -25,14 +25,13 @@
   justify-content: center;
   flex-wrap: wrap;
   text-align: center;
-  gap: 3%;
+  gap: 10%;
   padding-top: 3%;
 }
 
 .ParceirosCaixa {
   width: 300px;
   padding: 2%;
-  margin-top: 2%;
   margin-bottom: 2%;
   border: 2px solid #81807f30;
   box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.2);
