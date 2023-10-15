@@ -15,7 +15,7 @@ const Opcoes = () => {
       </div>
       
       <div className={styles.OpcoesImg}>
-        <img src="./img/img1.jpg" alt="Imagem de decoração de unicornio" />
+        <img src="./img/img2.jpg" alt="Imagem de decoração de unicornio" />
       </div>
     </div>
   )
