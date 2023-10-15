@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# site-brilho-da-magia
-Site Brilho da Magia Decorações - React.JS
-=======
-# site-brilho-da-magia
-Site Brilho da Magia Decorações - React.JS
->>>>>>> e7d0bbf (Initial commit from Create Next App)
+
+# Site Brilho da Magia Decorações
+
+Site Brilho da Magia Decorações desenvolvido com React.JS pela empresa IJCode. 
+
+
