@@ -1,8 +1,8 @@
 .Banner {
-  background-image: url('../../../public/img/banner.svg');
+  background-image: url('../../../public/img/banner1.svg');
   background-size: cover;
   background-attachment: fixed;
-  padding: 10% 10% 10%;
+  padding: 9% 10% 10%;
   margin-top: -80px;
   position: relative;
   clip-path: polygon(0 0, 100% 0, 100% 100%, 57% 100%, 50% 93%, 50% 93%, 43% 100%, 0 100%); 
