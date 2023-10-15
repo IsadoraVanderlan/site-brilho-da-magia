@@ -14,9 +14,11 @@
   font-size: 100px;
 }
 
-.Banner span {
+.Banner h2 {
+  font-family: 'Kaushan Script', cursive;
   color: #8DB0D2;
   font-size: 50px;
+  font-weight: 200;
 }
 
 .Banner p {

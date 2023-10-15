@@ -1,11 +1,15 @@
+'use client';
+import Fade from 'react-reveal/Fade';
 import React from 'react';
 import styles from '@/sections/div/div.module.css';
 
 const Div = () => {
   return (
     <div className={`${styles.Div} container`}>
-      <h2>Seu Aniversário</h2>
-      <p>Do jeitinho que você sempre imaginou!</p>
+      <Fade big>
+        <h2>Seu Aniversário</h2>
+        <p>Do jeitinho que você sempre imaginou!</p>
+      </Fade>
 
       <div className={styles.DivIcons}>
         <div>
