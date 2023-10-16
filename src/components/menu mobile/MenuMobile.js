@@ -30,7 +30,7 @@ const MenuMobile = () => {
         }`}
         ref={menuRef}
       >
-        <Link
+        {/* <Link
           to="home"
           spy={true}
           smooth={true}
@@ -40,40 +40,45 @@ const MenuMobile = () => {
           onClick={() => setMobileMenu(!mobileMenu)}
         >
           Home
-        </Link>
-        <Link
-          to="redes"
-          spy={true}
-          smooth={true}
-          offset={50}
-          duration={500}
-          href=""
-          onClick={() => setMobileMenu(!mobileMenu)}
-        >
-          Redes Sociais
-        </Link>
-        <Link
-          to="contato"
-          spy={true}
-          smooth={true}
-          offset={50}
-          duration={500}
-          href=""
-          onClick={() => setMobileMenu(!mobileMenu)}
-        >
-          Contato
-        </Link>
-        <Link
-          to="parceiros"
-          spy={true}
-          smooth={true}
-          offset={50}
-          duration={500}
-          href=""
-          onClick={() => setMobileMenu(!mobileMenu)}
-        >
-          Parceiros
-        </Link>
+        </Link> */}
+        <li>
+          <Link
+            to="kits"
+            spy={true}
+            smooth={true}
+            offset={5}
+            duration={600}
+            href=""
+          >
+            Kits
+          </Link>
+        </li>
+
+        <li>
+          <Link
+            to="endereco"
+            spy={true}
+            smooth={true}
+            offset={5}
+            duration={600}
+            href=""
+          >
+            Endereço
+          </Link>
+        </li>
+        
+        <li>
+          <Link
+            to="parceiros"
+            spy={true}
+            smooth={true}
+            offset={5}
+            duration={600}
+            href=""
+          >
+            Parceiros
+          </Link>
+        </li>
       </nav>
     </div>
   );
